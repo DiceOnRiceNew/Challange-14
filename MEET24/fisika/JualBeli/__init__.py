@@ -1,0 +1,1 @@
+from .R_Diskon import Diskon as Ds
